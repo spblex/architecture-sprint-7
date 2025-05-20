@@ -1,0 +1,165 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.2 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.2">
+  <diagram name="Page-1" id="rxAxzXE2kUao3Jzrz-ug">
+    <mxGraphModel dx="1842" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mabRixyImK4jQwzIlP1M-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mabRixyImK4jQwzIlP1M-1" target="mabRixyImK4jQwzIlP1M-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mabRixyImK4jQwzIlP1M-1" target="mabRixyImK4jQwzIlP1M-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mabRixyImK4jQwzIlP1M-1" target="mabRixyImK4jQwzIlP1M-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mabRixyImK4jQwzIlP1M-1" target="mabRixyImK4jQwzIlP1M-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-1" value="Безопасность&lt;div&gt;данных&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mabRixyImK4jQwzIlP1M-2" target="mabRixyImK4jQwzIlP1M-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mabRixyImK4jQwzIlP1M-2" target="mabRixyImK4jQwzIlP1M-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mabRixyImK4jQwzIlP1M-2" target="mabRixyImK4jQwzIlP1M-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="210" />
+              <mxPoint x="-345" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-2" value="Внутренние&lt;div&gt;данные&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mabRixyImK4jQwzIlP1M-3" target="mabRixyImK4jQwzIlP1M-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mabRixyImK4jQwzIlP1M-3" target="mabRixyImK4jQwzIlP1M-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mabRixyImK4jQwzIlP1M-3" target="mabRixyImK4jQwzIlP1M-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mabRixyImK4jQwzIlP1M-3" target="mabRixyImK4jQwzIlP1M-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="210" />
+              <mxPoint x="1145" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-3" value="&lt;div&gt;Публичные&lt;div&gt;данные&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mabRixyImK4jQwzIlP1M-4" target="mabRixyImK4jQwzIlP1M-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mabRixyImK4jQwzIlP1M-4" target="mabRixyImK4jQwzIlP1M-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mabRixyImK4jQwzIlP1M-4" target="mabRixyImK4jQwzIlP1M-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mabRixyImK4jQwzIlP1M-4" target="mabRixyImK4jQwzIlP1M-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mabRixyImK4jQwzIlP1M-4" target="mabRixyImK4jQwzIlP1M-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="870" />
+              <mxPoint x="-345" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-4" value="Конфиденциальные&lt;div&gt;данные&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mabRixyImK4jQwzIlP1M-5" target="mabRixyImK4jQwzIlP1M-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mabRixyImK4jQwzIlP1M-5" target="mabRixyImK4jQwzIlP1M-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mabRixyImK4jQwzIlP1M-5" target="mabRixyImK4jQwzIlP1M-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mabRixyImK4jQwzIlP1M-5" target="mabRixyImK4jQwzIlP1M-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mabRixyImK4jQwzIlP1M-5" target="mabRixyImK4jQwzIlP1M-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mabRixyImK4jQwzIlP1M-5" target="mabRixyImK4jQwzIlP1M-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="870" />
+              <mxPoint x="1145" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-5" value="Секретные&lt;div&gt;данные&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-11" value="ЖК" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-12" value="Недвижимость" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-13" value="Онлайн-тур" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-21" value="Финансовые детали сделок" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-22" value="Информация для аутентификации" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-23" value="Информация для аутентификации" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-24" value="Персональные данные собственников" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-25" value="Персональные данные клиентов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-26" value="История оплат ЖК" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-27" value="ТУЗ для интеграции с госорганами" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-28" value="Информация от УК для собственников" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-29" value="Информация о капитальном ремонте" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-30" value="Данные об Умном Доме" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-31" value="Роль пользователя (клиент, собственник, аналитик и т.д.)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-43" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Риски&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Утечка данных&lt;/b&gt; - незначительный - данные изначально доступны публично&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Потеря данных&lt;/b&gt; - значительный - недополученная прибыль&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Искажение данных&lt;/b&gt; - критический - репутационный риск, убыточные сделки&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Некачественные данные&lt;/b&gt; - критический - репутационный риск, убыточные сделки&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Обесцененные данные&lt;/b&gt; - незначительный&amp;nbsp;- репутационный риск, убыточные сделки, но данные меняются редко&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="900" y="275" width="490" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-44" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Риски&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Утечка данных&lt;/b&gt; - критический - репутационный риск, юридическая ответственность&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Потеря данных&lt;/b&gt; - значительный - невозможность пользователей зайти в систему, отказ интеграции с госорганами (приостановка сделок), но нформация подлежит востановлению из 3rd party источников&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Искажение данных&lt;/b&gt; - критический - несанкционированный доступ к системе, фальсификация сделок, несанкционированный доступ к апи госорганов для регистрации сделок, финансовые убытки, юридические тяжбы&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Некачественные данные&lt;/b&gt; - критический - несанкционированный доступ к системе, искажение финансовой информации&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Обесцененные данные&lt;/b&gt; - значительный - несанкционированный доступ к системе пользователей, у которых должны были быть отозваны права&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="900" y="520" width="490" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-45" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Риски&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Утечка данных&lt;/b&gt; - незначительный - репутационный риск&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Потеря данных&lt;/b&gt; - незначительный&amp;nbsp;- информация подлежит востановлению из 3rd party источников (квитанции об оплате и т.д.)&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Искажение данных&lt;/b&gt; - значительный - финансовые потери при выставлении счетов, дезинформация собственников&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Некачественные данные&lt;/b&gt; - значительный - финансовые потери при выставлении счетов, дезинформация собственников&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Обесцененные данные&lt;/b&gt; - незначительный - информация подлежит востановлению из 3rd party источников&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="240" width="490" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="mabRixyImK4jQwzIlP1M-46" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Риски&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Утечка данных&lt;/b&gt; - критический - репутационный риск, раскрытие конфиденциальной информации о клиенте, его финансах, управление Умным домом, юридические тяжбы, административно-уголовная ответственность&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Потеря данных&lt;/b&gt; - значительный - невозможность управлять умным домом&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Искажение данных&lt;/b&gt; - критический - риск финансовых ошибок&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Некачественные данные&lt;/b&gt; - критический - риск финансовых ошибок&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Обесцененные данные&lt;/b&gt; - значительный - нарушение системы управления умным домом&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="500" width="490" height="270" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
