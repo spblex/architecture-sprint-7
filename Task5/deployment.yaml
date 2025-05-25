@@ -1,0 +1,84 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: front-end
+  namespace: task-five
+  labels:
+    app: front-end
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: front-end
+  template:
+    metadata:
+      labels:
+        app: front-end
+    spec:
+      containers:
+        - name: nginx
+          image: nginx
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: back-end-api
+  namespace: task-five
+  labels:
+    app: back-end-api
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: back-end-api
+  template:
+    metadata:
+      labels:
+        app: back-end-api
+    spec:
+      containers:
+        - name: nginx
+          image: nginx
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: admin-front-end
+  namespace: task-five
+  labels:
+    app: admin-front-end
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: admin-front-end
+  template:
+    metadata:
+      labels:
+        app: admin-front-end
+    spec:
+      containers:
+        - name: nginx
+          image: nginx
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: admin-back-end-api
+  namespace: task-five
+  labels:
+    app: admin-back-end-api
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: admin-back-end-api
+  template:
+    metadata:
+      labels:
+        app: admin-back-end-api
+    spec:
+      containers:
+        - name: nginx
+          image: nginx
